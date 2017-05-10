@@ -1,0 +1,10 @@
+{
+  "name": "ebook-list",
+  "version": "1.0.0",
+  "description": "A Vue.js project",
+  "author": "Zac Baston <zbaston@gmail.com>",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
